@@ -1,0 +1,12 @@
+#One:hover {
+    color: green;
+}
+
+#Two:hover {
+    background-color: grey;
+}
+
+#Three:active {
+    margin-left: 5px;
+    margin-right: 5px;
+}
